@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e29c3462-d37f-4901-95f5-ab9cdeb1542d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/custome.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/custome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/existing-requests-details.php" beforeDir="false" afterPath="$PROJECT_DIR$/existing-requests-details.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RN6hTr8lE2gIbTwNbgXgsJTdj1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e29c3462-d37f-4901-95f5-ab9cdeb1542d" name="Default Changelist" comment="" />
+      <created>1569495325963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569495325963</updated>
+      <workItem from="1569495329759" duration="5077000" />
+      <workItem from="1569509413254" duration="3347000" />
+      <workItem from="1569660488924" duration="20135000" />
+      <workItem from="1569694375074" duration="669000" />
+      <workItem from="1569750822161" duration="19999000" />
+      <workItem from="1569829160735" duration="8787000" />
+      <workItem from="1569923468671" duration="4355000" />
+      <workItem from="1570028528190" duration="9438000" />
+      <workItem from="1570623763108" duration="8550000" />
+      <workItem from="1570652297346" duration="2898000" />
+      <workItem from="1570708901682" duration="6286000" />
+      <workItem from="1571050945292" duration="2713000" />
+      <workItem from="1571222384537" duration="7995000" />
+      <workItem from="1571486660219" duration="3434000" />
+      <workItem from="1571610738590" duration="2057000" />
+      <workItem from="1571742291481" duration="9403000" />
+      <workItem from="1571839197777" duration="4386000" />
+      <workItem from="1572432548762" duration="5110000" />
+      <workItem from="1572863774734" duration="9739000" />
+      <workItem from="1585825372771" duration="70000" />
+      <workItem from="1585825465779" duration="8583000" />
+      <workItem from="1586139649274" duration="18323000" />
+      <workItem from="1586955073426" duration="600000" />
+      <workItem from="1587024453357" duration="336000" />
+      <workItem from="1587028294522" duration="7529000" />
+      <workItem from="1589979763798" duration="2894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1982" y="119" key="run.anything.popup" timestamp="1586170995771">
+      <screen x="1366" y="-121" width="1920" height="1040" />
+    </state>
+    <state x="1982" y="119" key="run.anything.popup/0.0.1366.728/1366.-121.1920.1040@1366.-121.1920.1040" timestamp="1586170995771" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585828105615" />
+  </component>
+</project>
