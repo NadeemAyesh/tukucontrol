@@ -545,7 +545,86 @@ input[type="file"].parsley-error + ul.parsley-errors-list{
 .title-print h3{
     font-size: 22px;
 }
+.print-pr {
+    visibility: hidden;
+    height: 0;
+}
+.qr-code-img{
+    max-width: 170px;
+    height: auto;
+}
+
+.ord-num {
+    width: 200px;
+    margin-right: auto;
+    text-align: center !important;
+}
+
+.ord-num input {
+    color: #03A9F4;
+    border: 2px solid #2ED573;
+    border-radius: 8px !important;
+    -webkit-border-radius: 8px !important;
+    -moz-border-radius: 8px !important;
+    -ms-border-radius: 8px !important;
+    -o-border-radius: 8px !important;
+    text-align: center !important;
+}
+
+.price-box {
+    display: inline-block;
+    border: 2px solid #CCC;
+    border-radius: 8px !important;
+    -webkit-border-radius: 8px !important;
+    -moz-border-radius: 8px !important;
+    -ms-border-radius: 8px !important;
+    -o-border-radius: 8px !important;
+    min-width: 150px;
+    padding: 8px 35px;
+}
+
+.myDivToPrint label{
+    font-size: 18px;
+}
+.myDivToPrint .sender-list li p{
+    font-size: 18px;
+}
+.invoice-footer li{
+    font-size: 18px;
+}
+
+.sender-list li{
+    background-color: #f0f8ff;
+    border-radius: 7px;
+    border-right: 7px solid #2ED573;
+    padding: 10px 10px;
+    margin-bottom: 15px;
+}
+.price-box{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #fff9fa;
+    border-right: 8px solid #f58a94 ;
+    border-left: 8px solid #f58a94 ;
+}
+.blue-border.sender-list li{
+    border-right: 7px solid #03a9f4;
+}
+.blue-border.sender-list.bl-green li{
+    border-left: 7px solid #2ED573;
+}
+.sender-list li:last-child{
+    margin-bottom: 0;
+}
+.sender-list li p{
+    margin-bottom: 0;
+}
 @media print {
+    .print-pr {
+        display: block !important;
+        visibility: visible;
+        height: auto;
+    }
     .myDivToPrint {
         background-color: white;
         height: 100%;
@@ -566,9 +645,6 @@ input[type="file"].parsley-error + ul.parsley-errors-list{
         flex: 0 0 50.0%;
         max-width: 50.0%;
     }
-    .invoice-footer{
-        display: flex;
-    }
     .header, footer {
         display: none;
     }
@@ -576,7 +652,7 @@ input[type="file"].parsley-error + ul.parsley-errors-list{
         display: none;
     }
     .invoice-footer-icon li b{
-        color: #0f0f11; !important;
+        color: #0f0f11 !important;
     }
     .col-md-6-print label{
         font-size: 20px;
@@ -584,7 +660,25 @@ input[type="file"].parsley-error + ul.parsley-errors-list{
     .col-md-6-print input{
         font-size: 20px;
     }
+
+    .m-scroll-top--shown .m-scroll-top {
+        display: none !important;
+    }
+
+    .text-danger {
+        color: #dc3545 !important;
+    }
+    .invoice-footer{
+        display: flex !important;
+    }
+
+    .sender-list li, .price-box{
+        border: 1px solid #aaaaaa !important;
+    }
 }
+.invoice-footer-icon li b{
+        color: #0f0f11 !important;
+    }
 .invoice-footer-logo{
     width: 90px;
     height: auto;
@@ -593,10 +687,10 @@ input[type="file"].parsley-error + ul.parsley-errors-list{
     padding-right: 10px;
     position: relative;
     font-size: 17px;
-    text-align: right;
+    text-align: right !important;
 }
 .invoice-footer-icon li span{
-    color: #0f0f11; !important;
+    color: #0f0f11 !important;
     font-weight: 600;
 }
 .invoice-footer-icon li:before{
